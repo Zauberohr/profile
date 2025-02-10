@@ -9,6 +9,11 @@
   border: 5px solid #0077B5;
 }
 
+.profilpic:hover {
+  border-radius: 10%;
+  transition: .3s;;
+}
+
 .container {
   width: 600px;
   margin: 0 auto;
@@ -21,8 +26,7 @@
   font-family: 'Open Sans', sans-serif;
   font-weight: 300;
   color: #0077B5;
-  text-shadow: 1px 1px 1px black
-
+  text-shadow: 1px 1px 1px black;
 }
 .font {
   font-family: "Chakra Petch", serif;
