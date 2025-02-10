@@ -55,7 +55,7 @@ button {
 }
 
 .second {
-  border-radius: 0%;
+  border: 5px solid #0077B5;
   width: 400px;
   height: 400px;
   transition: border-radius ease .3s;
